@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+/dist/
+/verification/
+/HackTK.Next/
+/HackTK.Next.Updated/
+*.zip
+*.user
+*.suo
+.vs/

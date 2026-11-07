@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HackTK.Next.Abstractions</AssemblyName>
+    <RootNamespace>HackTK.Next.Abstractions</RootNamespace>
+  </PropertyGroup>
+</Project>

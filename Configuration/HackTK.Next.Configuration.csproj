@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HackTK.Next.Configuration</AssemblyName>
+    <RootNamespace>HackTK.Next.Configuration</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\HackTK.Next.Abstractions.csproj" />
+  </ItemGroup>
+</Project>

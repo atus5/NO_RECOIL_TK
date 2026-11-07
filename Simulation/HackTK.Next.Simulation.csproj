@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HackTK.Next.Simulation</AssemblyName>
+    <RootNamespace>HackTK.Next.Simulation</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\HackTK.Next.Abstractions.csproj" />
+    <ProjectReference Include="..\Configuration\HackTK.Next.Configuration.csproj" />
+    <ProjectReference Include="..\Diagnostics\HackTK.Next.Diagnostics.csproj" />
+    <ProjectReference Include="..\Services\HackTK.Next.Services.csproj" />
+    <ProjectReference Include="..\Core\HackTK.Next.Core.csproj" />
+    <ProjectReference Include="..\Modules\HackTK.Next.Modules.csproj" />
+  </ItemGroup>
+</Project>

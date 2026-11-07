@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <AssemblyName>HackTK.Next.UI</AssemblyName>
+    <RootNamespace>HackTK.Next.UI</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\HackTK.Next.Abstractions.csproj" />
+    <ProjectReference Include="..\Configuration\HackTK.Next.Configuration.csproj" />
+    <ProjectReference Include="..\Diagnostics\HackTK.Next.Diagnostics.csproj" />
+    <ProjectReference Include="..\Services\HackTK.Next.Services.csproj" />
+    <ProjectReference Include="..\Core\HackTK.Next.Core.csproj" />
+    <ProjectReference Include="..\Modules\HackTK.Next.Modules.csproj" />
+    <ProjectReference Include="..\Simulation\HackTK.Next.Simulation.csproj" />
+    <ProjectReference Include="..\Runtime\HackTK.Next.Runtime.csproj" />
+  </ItemGroup>
+</Project>

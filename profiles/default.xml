@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AimEnabled>false</AimEnabled>
+  <DrawAimRadius>false</DrawAimRadius>
+  <AimFov>30</AimFov>
+  <AimRadiusPixels>8</AimRadiusPixels>
+  <Smooth>5</Smooth>
+  <Target>Head</Target>
+  <ActivationKey>LeftAlt</ActivationKey>
+  <RecoilCompensation>false</RecoilCompensation>
+  <NoRecoil>false</NoRecoil>
+  <NoSpread>false</NoSpread>
+  <RecordShotDiagnostics>false</RecordShotDiagnostics>
+  <AutoDisableRawInput>false</AutoDisableRawInput>
+  <Box>false</Box>
+  <Skeleton>false</Skeleton>
+  <Snaplines>false</Snaplines>
+  <Names>false</Names>
+  <Health>false</Health>
+  <BoxHue>0</BoxHue>
+  <BoneHue>0.33</BoneHue>
+  <PlayerChams>false</PlayerChams>
+  <HandChams>false</HandChams>
+  <WeaponChams>false</WeaponChams>
+  <ChamsMode>Flat</ChamsMode>
+  <PlayerHue>0</PlayerHue>
+  <HandHue>0.33</HandHue>
+  <WeaponHue>0.66</WeaponHue>
+  <Crosshair>false</Crosshair>
+  <BunnyHop>false</BunnyHop>
+  <Viewmodel>false</Viewmodel>
+  <ViewX>0</ViewX>
+  <ViewY>0</ViewY>
+  <ViewZ>0</ViewZ>
+</Settings>
